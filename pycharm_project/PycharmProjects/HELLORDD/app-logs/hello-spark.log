@@ -1,0 +1,5 @@
+21/11/16 17:54:22 INFO Hello RDD: Starting the Hello RDD
+21/11/16 17:54:27 INFO Hello RDD: [United States, 4]
+21/11/16 17:54:27 INFO Hello RDD: [Canada, 2]
+21/11/16 17:54:27 INFO Hello RDD: [United Kingdom, 1]
+21/11/16 17:54:27 INFO Hello RDD: Finishing Hello RDD

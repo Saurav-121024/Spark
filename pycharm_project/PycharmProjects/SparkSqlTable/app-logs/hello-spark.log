@@ -1,0 +1,4 @@
+21/09/22 16:28:29 INFO Sql Table: Starting SQLTable
+21/09/22 16:28:33 INFO Sql Table: Number of Partition:2
+21/09/22 16:28:44 INFO Sql Table: [[flight_data_tbl, airline_db, null, MANAGED, false]]
+21/09/22 16:28:44 INFO Sql Table: Finishing SQLTable
